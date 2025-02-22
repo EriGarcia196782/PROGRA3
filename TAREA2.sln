@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "TAREA2", "TAREA2\TAREA2.pyproj", "{5710F9B5-524F-4550-B00D-270D2A048F04}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5710F9B5-524F-4550-B00D-270D2A048F04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5710F9B5-524F-4550-B00D-270D2A048F04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B4DC5DE-7A49-411D-AFD4-ABD0B9FEC29D}
+	EndGlobalSection
+EndGlobal
